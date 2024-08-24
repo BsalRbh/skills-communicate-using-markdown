@@ -8,3 +8,7 @@ testing markdown test test test.
 ``` javascript
 const NAME = "Bishal Rajbahak";
 ```
+## Step IV : Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio.
+- [ ] Introduce my to the world.
